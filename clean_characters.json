@@ -1,0 +1,551 @@
+[
+  {
+    "Name": "Alice Longbottom",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Profession": "Auror",
+    "Blood": "Unknown",
+    "School": "Unknown",
+    "id": "26"
+  },
+  {
+    "Name": "Aragog",
+    "Gender": "Male",
+    "Species/Race": "Acromantula",
+    "Blood": "Unknown",
+    "School": "Unknown",
+    "Profession": "Unknown",
+    "id": "63"
+  },
+  {
+    "Name": "Bellatrix Lestrange",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Unknown",
+    "id": "25",
+    "house": "Slytherin"
+  },
+  {
+    "Name": "Cho Chang",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "School": "Hogwarts",
+    "Blood": "Unknown",
+    "Profession": "Unknown",
+    "id": "3",
+    "house": "Ravenclaw"
+  },
+  {
+    "Name": "Cedric Diggory",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "School": "Hogwarts",
+    "Blood": "Unknown",
+    "Profession": "Unknown",
+    "id": "9",
+    "house": "Hufflepuff"
+  },
+  {
+    "Name": "Dobby",
+    "Gender": "Male",
+    "Species/Race": "House-Elf",
+    "Blood": "Unknown",
+    "School": "Unknown",
+    "Profession": "Unknown",
+    "id": "59"
+  },
+  {
+    "Name": "Albus Dumbledore",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Half-blood",
+    "School": "Hogwarts",
+    "Profession": "Headmaster at Hogwarts School",
+    "id": "11",
+    "house": "Unknown"
+  },
+  {
+    "Name": "Dudley Dursley",
+    "Gender": "Male",
+    "Species/Race": "Muggle",
+    "Blood": "Muggle",
+    "School": "Unknown",
+    "Profession": "Unknown",
+    "id": "12"
+  },
+  {
+    "Name": "Argus Filch",
+    "Gender": "Male",
+    "Species/Race": "Squib",
+    "School": "Hogwarts",
+    "Profession": "Caretaker",
+    "Blood": "Unknown",
+    "id": "15",
+    "house": "Staff"
+  },
+  {
+    "Name": "Fleur Delacour",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Blood": "Half-blood",
+    "School": "Beauxbatons",
+    "Profession": "Unknown",
+    "id": "8"
+  },
+  {
+    "Name": "Fluffy",
+    "Gender": "Male",
+    "Species/Race": "Three-headed dog",
+    "Blood": "Unknown",
+    "School": "Unknown",
+    "Profession": "Unknown",
+    "id": "60"
+  },
+  {
+    "Name": "Frank Longbottom",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Profession": "Auror",
+    "Blood": "Unknown",
+    "School": "Unknown",
+    "id": "27"
+  },
+  {
+    "Name": "Cornelius Fudge",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Unknown",
+    "Profession": "Minister for Magic 1990-1996",
+    "School": "Unknown",
+    "id": "18"
+  },
+  {
+    "Name": "Goyle Sr.",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Unknown",
+    "School": "Unknown",
+    "Profession": "Unknown",
+    "id": "19"
+  },
+  {
+    "Name": "Grawp",
+    "Gender": "Male",
+    "Species/Race": "Giant",
+    "Blood": "Unknown",
+    "School": "Unknown",
+    "Profession": "Unknown",
+    "id": "64"
+  },
+  {
+    "Name": "Gregory Goyle",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Unknown",
+    "School": "Hogwarts",
+    "Profession": "Unknown",
+    "id": "20",
+    "house": "Slytherin"
+  },
+  {
+    "Name": "Hedwig",
+    "Gender": "Female",
+    "Species/Race": "Owl",
+    "Profession": "Post owl",
+    "Blood": "Unknown",
+    "School": "Unknown",
+    "id": "61"
+  },
+  {
+    "Name": "Hermione Granger",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Blood": "Muggle-born",
+    "School": "Hogwarts",
+    "Profession": "Department for the Regulation and Control of Magical Creatures and Dept. of Magical Law Enforcement",
+    "id": "21",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Igor Karkaroff",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "School": "Durmstrang - Staff",
+    "Profession": "Headmaster of Durmstrang Institute",
+    "Blood": "Unknown",
+    "id": "23"
+  },
+  {
+    "Name": "Lavender Brown",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "School": "Hogwarts",
+    "Blood": "Unknown",
+    "Profession": "Unknown",
+    "id": "2",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Lord Voldemort",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Half-blood",
+    "School": "Hogwarts",
+    "Profession": "Unknown",
+    "id": "45",
+    "house": "Slytherin"
+  },
+  {
+    "Name": "Luna Lovegood",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Luna became a famous naturalist, and discovered and classified many new species of animals during her career. She never found a Crumple-Horned Snorkack. (BLC)",
+    "id": "29",
+    "house": "Ravenclaw"
+  },
+  {
+    "Name": "Draco Malfoy",
+    "Gender": "Male",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Species/Race": "Unknown",
+    "Profession": "Unknown",
+    "id": "32",
+    "house": "Slytherin"
+  },
+  {
+    "Name": "Lucius Malfoy",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Inherited wealth, estate owner",
+    "id": "33",
+    "house": "Slytherin"
+  },
+  {
+    "Name": "Minerva McGonagall",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Blood": "Half-blood",
+    "School": "Hogwarts",
+    "Profession": "Transfiguration professor",
+    "id": "36",
+    "house": "Unknown"
+  },
+  {
+    "Name": "Narcissa Malfoy",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Lady of Malfoy Manor",
+    "id": "34",
+    "house": "Slytherin"
+  },
+  {
+    "Name": "Neville Longbottom",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Herbology professor at Hogwarts",
+    "id": "28",
+    "house": "Unknown"
+  },
+  {
+    "Name": "Nicolas Flamel",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "School": "Beauxbatons",
+    "Profession": "Alchemist",
+    "Blood": "Unknown",
+    "id": "17"
+  },
+  {
+    "Name": "Nymphadora Tonks",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Blood": "Half-blood",
+    "School": "Hogwarts",
+    "Profession": "Auror",
+    "id": "48",
+    "house": "Hufflepuff"
+  },
+  {
+    "Name": "Olympe Maxime",
+    "Gender": "Female",
+    "Species/Race": "Witch, Half-Giant",
+    "Blood": "Half-blood",
+    "School": "Beauxbatons - Staff",
+    "Profession": "Headmistress",
+    "id": "35"
+  },
+  {
+    "Name": "Peter Pettigrew",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "School": "Hogwarts",
+    "Profession": "Spent most of his adult life hiding as a rat Animagus in the Weasley household, before returning to Lord Voldemort as a Death Eater.",
+    "Blood": "Unknown",
+    "id": "38",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Petunia Dursley",
+    "Gender": "Female",
+    "Species/Race": "Muggle",
+    "Blood": "Muggle",
+    "Profession": "Met her husband in an office, then became a mother and homemaker",
+    "School": "Unknown",
+    "id": "13"
+  },
+  {
+    "Name": "Harry Potter",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Half-blood",
+    "School": "Hogwarts",
+    "Profession": "Auror",
+    "id": "39",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "James Potter",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Fought with the Order against Voldemort",
+    "id": "40",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Lily Potter",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Blood": "Muggle-born",
+    "School": "Hogwarts",
+    "Profession": "Fought against Voldemort with the Order of the Phoenix",
+    "id": "41",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Quirinus Quirrell",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Half-blood",
+    "School": "Hogwarts",
+    "Profession": "Defence Against the Dark Arts professor, previously Muggle Studies (BLC)",
+    "id": "42",
+    "house": "Ravenclaw"
+  },
+  {
+    "Name": "Remus Lupin",
+    "Gender": "Male",
+    "Species/Race": "Wizard and Werewolf",
+    "Blood": "Half-blood",
+    "School": "Hogwarts",
+    "Profession": "His lycanthropy made it near impossible for him to work at a normal job. The exception was when Dumbledore hired him to be the Hogwarts Defense Against the Dark Arts professor",
+    "id": "31",
+    "house": "Unknown"
+  },
+  {
+    "Name": "Rubeus Hagrid",
+    "Gender": "Male",
+    "Species/Race": "Half-giant Wizard",
+    "Blood": "Half-blood",
+    "School": "Hogwarts",
+    "Profession": "Keeper of the Keys and Grounds, Gamekeeper, Care of Magical Creatures teacher",
+    "id": "22",
+    "house": "Unknown"
+  },
+  {
+    "Name": "Seamus Finnigan",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Half-blood",
+    "School": "Hogwarts",
+    "Profession": "Student",
+    "id": "16",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Sirius Black",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Unknown",
+    "id": "1",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Rita Skeeter",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Profession": "writer",
+    "Blood": "Unknown",
+    "School": "Unknown",
+    "id": "46"
+  },
+  {
+    "Name": "Severus Snape",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Half-blood",
+    "School": "Hogwarts",
+    "Profession": "Head of Slytherin, Potions Master, and Headmaster of Hogwarts",
+    "id": "47",
+    "house": "Unknown"
+  },
+  {
+    "Name": "Tom Riddle Sr.",
+    "Gender": "Male",
+    "Species/Race": "Muggle",
+    "Blood": "Muggle",
+    "School": "Unknown",
+    "Profession": "Unknown",
+    "id": "43"
+  },
+  {
+    "Name": "Vernon Dursley",
+    "Gender": "Male",
+    "Species/Race": "Muggle",
+    "Blood": "Muggle",
+    "Profession": "Executive Director at the company Grunnings, makers of drills",
+    "School": "Unknown",
+    "id": "14"
+  },
+  {
+    "Name": "Viktor Krum",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "School": "Durmstrang",
+    "Profession": "Quidditch player (Seeker)",
+    "Blood": "Unknown",
+    "id": "24"
+  },
+  {
+    "Name": "Vincent Crabbe",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "School": "Hogwarts",
+    "Blood": "Unknown",
+    "Profession": "Unknown",
+    "id": "5",
+    "house": "Slytherin"
+  },
+  {
+    "Name": "Moaning Myrtle",
+    "Gender": "Female",
+    "Blood": "Muggle-born",
+    "School": "Hogwarts",
+    "Species/Race": "Unknown",
+    "Profession": "Unknown",
+    "id": "62",
+    "house": "Ravenclaw"
+  },
+  {
+    "Name": "Arthur Weasley",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Under Cornelius Fudge: Ministry of Magic Misuse of Muggle Artifacts Office (with a warlock named Perkins). Under Rufus Scrimgeour: Head of the Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects (HBP5).",
+    "id": "50",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Charlie Weasley",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Works with dragons in Romania",
+    "id": "52",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Fred Weasley",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Owner and manager of Weasleys' Wizard Wheezes",
+    "id": "53",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "George Weasley",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Owner of Weasleys' Wizard Wheezes",
+    "id": "54",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Ginny Weasley",
+    "Gender": "Female",
+    "Species/Race": "Witch",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Quidditch player Holyhead Harpies; later senior Quidditch correspondent and Sports Page editor for the Daily Prophet",
+    "id": "55",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Molly Weasley",
+    "Gender": "Female",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "Profession": "Housewife",
+    "School": "Unknown",
+    "id": "56"
+  },
+  {
+    "Name": "Percy Weasley",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Clerical job in the Department of International Magical Cooperation and later Junior Assistant to Minister Fudge. Went on the become Head of the Department of Magical Transportation.",
+    "id": "57",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Ron Weasley",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Auror, also worked with his brother George at Weasley's Wizard Wheezes",
+    "id": "58",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Bill Weasley",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Blood": "Pure blood",
+    "School": "Hogwarts",
+    "Profession": "Curse Breaker at Gringotts",
+    "id": "51",
+    "house": "Gryffindor"
+  },
+  {
+    "Name": "Xenophilius Lovegood",
+    "Gender": "Male",
+    "Species/Race": "Wizard",
+    "Profession": "Editor",
+    "Blood": "Unknown",
+    "School": "Unknown",
+    "id": "30"
+  }
+]
