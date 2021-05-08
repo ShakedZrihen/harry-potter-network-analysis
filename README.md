@@ -2,9 +2,11 @@
 
 ## Start project
 
-### Create venv
-1. Make sure you installed conda
-2. install requirements with `pip install -r requirements.txt`
+### Create and set venv
+
+1. Make sure you installed conda and activate venv
+2. install requirements with `conda install --file requirements.txt`
+
 ## Data explanations
 
 * Characters:
