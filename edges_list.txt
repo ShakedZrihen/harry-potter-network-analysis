@@ -1,0 +1,7 @@
+Harry Potter,Ron Weasley,10
+Harry Potter,Hermione Granger,5
+Harry Potter,Draco Malfoy,-6
+Ron Weasley,Ginny Weasley,4
+Ron Weasley,Hermione Granger,8
+Neville Longbottom,Draco Malfoy,-2
+Neville Longbottom,Harry Potter,3
